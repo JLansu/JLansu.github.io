@@ -1,7 +1,10 @@
 .me-description {
     width: 75vw;
     height: 5vw;
+    display: flex;
 }
 .me-image {
     margin-top: 2vw;
+    display: inline-block;
+
 }
